@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+data/processed/*.csv
+Data_Science_Challenge_2/
